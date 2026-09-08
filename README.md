@@ -235,3 +235,6 @@ This repository serves as the official landing page for Foto-Mosaik-Edda. The so
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://sixdots.de)
 
 **Get the most recent version of Foto-Mosaik-Edda today!**
+
+---
+**Last updated:** 2026-09-08 22:14:00 UTC
